@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo
-# https://react-burger-46c0f.firebaseapp.com/
+https://react-burger-46c0f.firebaseapp.com/
 
 ## Available Scripts
 
